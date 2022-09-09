@@ -48,6 +48,10 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# Feed
+atom_feed:
+  hide: true
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
